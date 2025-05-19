@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luanda-Toledo
 - 👀 I'm interested in developing websites
-- 🌱 I'm currently learning Python
+- 🌱 I'm currently learning TypeScript and NestJS to strengthen my backend development skills.
 - 📫 How to reach me https://www.linkedin.com/in/luanda-toledo-055647161/
 
 <!---
